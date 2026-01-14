@@ -630,6 +630,13 @@
         "domains": ["aescripts.com"]
     },
     {
+        "name": "Aetna",
+        "url": "https://aetna.com",
+        "difficulty": "hard",
+        "notes": "You need to call them during business hours. 1-800-225-3375 (TTY: 711)",
+        "domains": ["aetna.com"]
+    },
+    {
         "name": "Afterpay",
         "url": "https://portal.afterpay.com/en-AU/account",
         "difficulty": "easy",
@@ -11980,6 +11987,13 @@
         "notes": "Go to the Settings page of your account, then account information and click “Close account”.",
         "notes_tr": "Hesabınızın \"Ayarlar\" sayfasına gidin, ardından hesap bilgileri ve \"Hesabı Kapat\" öğesini tıklayın.",
         "domains": ["loseit.com"]
+    },
+    {
+        "name": "Lowes",
+        "url": "https://lowes.com",
+        "difficulty": "hard",
+        "notes": "You need to contact them via their AI chatbot. And they make you suffer.",
+        "domains": ["lowes.com"]
     },
     {
         "name": "Love My Credit Union Rewards",
